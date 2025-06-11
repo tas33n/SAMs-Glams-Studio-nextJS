@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# SAM'S GLAM STUDIO
 
-First, run the development server:
+Welcome to **SAM'S GLAM STUDIO**! This is a modern, visually stunning single-page application (SPA) for professional makeup artists to showcase their portfolio, highlight services, and connect with clients. Built with Next.js, Framer Motion, and Tailwind CSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Animated Hero Section:** Eye-catching introduction with smooth scroll and animated backgrounds.
+- **Portfolio Gallery:** Filterable, modal-enabled gallery to showcase makeup artistry work.
+- **Service Listings:** Detailed, interactive cards for all offered services.
+- **Experience & Certifications:** Timeline and grid for professional journey, certifications, and achievements.
+- **Video Carousel:** Social media video highlights with interactive navigation.
+- **Contact Section:** Prominent contact info, social links, and call-to-action.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop.
+- **Framer Motion Animations:** Smooth, modern UI transitions throughout.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🖼️ Previews
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Home Page
+![Home Page Preview](./public/previews/hero.png)
 
-## Deploy on Vercel
+### Portfolio Gallery
+![Portfolio Gallery Preview](./public/previews/portfolio.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Contacts
+![Portfolio Gallery Preview](./public/previews/contacts.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+
+## 👤 Author
+
+- **tas33n** ([tas33n.is-a.dev](http://tas33n.is-a.dev))
+- 📧 Email: [farhanisteak84@gmail.com](mailto:farhanisteak84@gmail.com)
+
+---
+
+
+## 📦 Installation & Usage
+
+This project is currently not open for public deployment or contribution. For business inquiries or demo access, please contact the author.
+
+---
+
+
+## 📧 Contact
+
+For questions, collaborations, or demo requests, please email: [farhanisteak84@gmail.com](mailto:farhanisteak84@gmail.com)
+
+---
+
+
+## 📄 License
+
+All rights reserved. Unauthorized copying or distribution of any part of this project is prohibited.
