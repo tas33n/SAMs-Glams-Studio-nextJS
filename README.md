@@ -1,7 +1,12 @@
 
 # SAM'S GLAM STUDIO
 
-Welcome to **SAM'S GLAM STUDIO**! This is a modern, visually stunning single-page application (SPA) for professional makeup artists to showcase their portfolio, highlight services, and connect with clients. Built with Next.js, Framer Motion, and Tailwind CSS.
+Welcome to **SAM'S GLAM STUDIO**! This is a modern, visually stunning single-page application (SPA) for professional makeup artists to showcase their portfolio, highlight services, and connect with clients.
+
+> **Note:** The actual project source code is private. This public repository is for showcase purposes only.
+
+Built with Next.js, Framer Motion, and Tailwind CSS.
+
 
 ---
 
